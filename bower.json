@@ -1,0 +1,28 @@
+{
+  "name": "sigma-js-component",
+  "version": "0.1.0",
+  "description": "A wrapping of the sigma.js library. See http://sigmajs.org/",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "sigmajs"
+  ],
+  "authors": [
+    "Rémi Casado"
+  ],
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/Yepikae/sigma-js-component.git"
+  },
+  "main": "sigma-js-component.html",
+  "license": "https://github.com/Yepikae/sigma-js-component/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
