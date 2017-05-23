@@ -17,8 +17,7 @@
   "main": "sigma-js-component.html",
   "license": "https://github.com/Yepikae/sigma-js-component/LICENSE",
   "dependencies": {
-    "polymer": "polymer/polymer#^1.0.0",
-    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior"
+    "polymer": "Polymer/polymer"
   },
   "devDependencies": {
     "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
